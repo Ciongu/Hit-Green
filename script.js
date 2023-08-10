@@ -1,10 +1,3 @@
-// 1. Create a square on the screen from Javascript
-// 2. Color the square in red from Javascript
-// 3. Create a button that when clicked will randomly change the color of the square
-// 4. Create a layout of 9 squares. Each should be colored randomly from a list of potential colors.
-// 5. Create a timer on the screen.
-// 6. Display a counter on the screen. The counter should display the score. You score a point when you click a green square
-// 7. When you click a green square, a new square should appear in its place.
 
 // Select already created needed DOM elems
 const main = document.querySelector("main");
